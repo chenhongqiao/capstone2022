@@ -48,7 +48,7 @@
       </v-card>
       <v-card v-else class="mt-4">
         <v-card-text class="text-center">
-          Quotes from a subset of a <a href="https://research.calvin.edu/german-propaganda-archive/" target="_blank">collection</a> of Nazi regime's Anti-Semitic Propaganda will be shown here. The number at the top indicates the similarity determined by the algorithm. Collection is maintained by Professor Emeritus from Calvin University.
+          Quotes from a subset of a <a href="https://research.calvin.edu/german-propaganda-archive/" target="_blank">collection</a> of Nazi regime's Anti-Semitic Propaganda will be shown here. The number at the top indicates the similarity determined by the algorithm. Collection is maintained by Professor Emeritus Randall Bytwerk from Calvin University.
         </v-card-text>
       </v-card>
     </v-col>
