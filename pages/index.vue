@@ -12,7 +12,7 @@
             />
           </div>
           <div class="my-4 text-h5 text-center text--primary">
-            <div>Only having access to information from one perspective can lead to individuals dehumanizing dissimilar groups.</div>
+            <div>Receiving information from only one perspective can lead to individuals dehumanizing other groups.</div>
           </div>
           <v-divider />
           <div class="my-6">
@@ -22,6 +22,9 @@
             <blockquote class="blockquote">
               <p>
                 The consequence of the single story is this: It robs people of dignity. It makes our recognition of our equal humanity difficult. It emphasizes how we are different rather than how we are similar.
+              </p>
+              <p class="text-right mr-8 pr-8">
+                Chimamanda Adichie
               </p>
             </blockquote>
             <p class="text-body-1 text--secondary">
