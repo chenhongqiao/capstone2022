@@ -201,7 +201,7 @@ function useAnswers (scenario: Ref<Scenario>, sources: ComputedRef<Source[]>, qu
   async function getAnswers () {
     loading.value = true
     answers.value.splice(0, answers.value.length)
-    prefix.value.splice(0, answers.value.length)
+    prefix.value.splice(0, prefix.value.length)
     const queue: Promise<string>[] = []
     sources.value.forEach((source) => {
       queue.push($axios.$post('https://machine-reading.harrychen.workers.dev/', {
