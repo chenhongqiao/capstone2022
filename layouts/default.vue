@@ -51,7 +51,7 @@ import { defineComponent, ref } from '@nuxtjs/composition-api'
 export default defineComponent({
   name: 'DefaultLayout',
   setup () {
-    const routes = [
+    const routes = ref([
       {
         icon: 'mdi-home',
         title: 'Home',
@@ -62,11 +62,11 @@ export default defineComponent({
         title: 'Explore',
         to: '/explore'
       }
-    ]
+    ])
 
     return {
-      routes: ref(routes),
-      drawer: ref(true)
+      routes,
+      drawer: ref(false)
     }
   }
 })
