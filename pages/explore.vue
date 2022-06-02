@@ -233,7 +233,8 @@ export default defineComponent({
       unavailable: [
         { text: '[A Jewish person] is a pianist who hoped to become a conductor and concert pianist. He started studying piano at the age of 10 and gave his first concert at the age of 14.', selected: false, cite: 'Bio of Otto-Karl Gruenbaum - Holocaust Encyclopedia', available: false },
         { text: '[A Jewish person] is the parent of two children.', selected: false, cite: 'Bio of Jeno Katz - Holocaust Encyclopedia', available: false },
-        { text: 'Jewish teaching promotes love, humility, service, democracy, and many other values.', selected: false, cite: 'Attitudes, Beliefs and Values Shaping Jewish Practice - Reconstructing Judaism', available: false }],
+        { text: 'Jewish teaching promotes love, humility, service, democracy, and many other values.', selected: false, cite: 'Attitudes, Beliefs and Values Shaping Jewish Practice - Reconstructing Judaism', available: false },
+        { text: '[A Jewish person] is a worker in a textile factory.', selected: false, cite: 'Bio of Matvey Gredinger - Holocaust Encyclopedia', available: false }],
       person: {
         name: 'Peter Simon',
         description: 'Peter is a German citizen under the Nazi regime. He is a hard-working factory worker and does not face persecution from the government. Peter saved money to purchase a radio but only had access to Nazi-controlled media. He has a wife and two kids but does not have Jewish friends or relatives.'
