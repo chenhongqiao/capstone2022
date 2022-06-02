@@ -38,6 +38,11 @@
         <Nuxt />
       </v-container>
     </v-main>
+    <v-footer dark app>
+      <div>
+        Harry Chen - Humanities 9 Spring Capstone
+      </div>
+    </v-footer>
   </v-app>
 </template>
 
